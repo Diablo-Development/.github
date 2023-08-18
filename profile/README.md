@@ -4,10 +4,10 @@ Diablo is a team of sped teenagers that like java.
 
 ### Products
 
-- Diablo Client (https://intent.store)
+- Diablo Client (https://diablo.wtf)
 - Diablo Checker (private)
 
-if you need to contact us dm Vince#7777 on discord for support
+if you need to contact us dm @dev-vince on discord for support
 
 
 <a href="https://github.com/Diablo-Development">
